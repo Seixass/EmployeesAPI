@@ -1,0 +1,78 @@
+[
+  {
+    "nome": "asdasd Wilton",
+    "idade": "32",
+    "cargo": "Instrutor",
+    "cpf": "123.456.789-00",
+    "email": "asdasd@example.com",
+    "senha": 12345,
+    "confirmaSenha": 12345,
+    "telefone": "(11) 98765-4321",
+    "data_contratacao": "2022-01-10",
+    "salario": 1100,
+    "habilidades": [
+      "Front-End",
+      "Back-End",
+      "Docker",
+      "SQL"
+    ],
+    "id": 1
+  },
+  {
+    "nome": "Carlos Wilton",
+    "idade": "32",
+    "cargo": "Instrutor",
+    "cpf": "123.456.789-00",
+    "email": "carlos@example.com",
+    "senha": 12345,
+    "confirmaSenha": 12345,
+    "telefone": "(11) 98765-4321",
+    "data_contratacao": "2022-01-10",
+    "salario": 4500,
+    "habilidades": [
+      "Front-End",
+      "Back-End",
+      "Docker",
+      "SQL"
+    ],
+    "id": 2
+  },
+  {
+    "nome": "Carlos Wilton",
+    "idade": "32",
+    "cargo": "Instrutor",
+    "cpf": "123.456.789-00",
+    "email": "carlos@example.com",
+    "senha": 12345,
+    "confirmaSenha": 12345,
+    "telefone": "(11) 98765-4321",
+    "data_contratacao": "2022-01-10",
+    "salario": 1100,
+    "habilidades": [
+      "Front-End",
+      "Back-End",
+      "Docker",
+      "SQL"
+    ],
+    "id": 3
+  },
+  {
+    "nome": "Carlos Wilton",
+    "idade": "32",
+    "cargo": "Instrutor",
+    "cpf": "123.456.789-00",
+    "email": "carlos@example.com",
+    "senha": 12345,
+    "confirmaSenha": 12345,
+    "telefone": "(11) 98765-4321",
+    "data_contratacao": "2022-01-10",
+    "salario": 1100,
+    "habilidades": [
+      "Front-End",
+      "Back-End",
+      "Docker",
+      "SQL"
+    ],
+    "id": 4
+  }
+]
